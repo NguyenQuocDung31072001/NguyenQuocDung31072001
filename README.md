@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Book E-commerce](https://github.com/NguyenQuocDung31072001/selling-e-books-website)
 
-- 🌱 I’m currently learning **nextjs**
-
 - 🔭 I’m currently working on [Blog story app](https://github.com/NguyenQuocDung31072001/project_fullstack_blog_app)
+
+- 🌱 I’m currently learning **nextjs**
 
 - 💬 Ask me about **react**
 
