@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quốc Dũng</h1>
 <h3 align="center">Fullstack developer</h3>
-<p>
+<p align="left">
 {
   "name":"dung","uyen",
    "title":"ui"
