@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quốc Dũng</h1>
 <h3 align="center">Fullstack developer</h3>
-<p align="left">
-{
-  "name":"dung","uyen",
-   "title":"ui"
-}
-</p>
+
 - 🔭 I’m currently working on [Book E-commerce](https://github.com/NguyenQuocDung31072001/selling-e-books-website)
 
 - 🔭 I’m currently working on [Blog story app](https://github.com/NguyenQuocDung31072001/blog_fullstack_react_nodejs_golang)
