@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on [Blog story app](https://github.com/NguyenQuocDung31072001/blog_fullstack_react_nodejs_golang)
 
-- 🌱 I’m currently learning **nextjs**
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **dungnguyen310701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
