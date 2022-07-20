@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Book E-commerce](https://github.com/NguyenQuocDung31072001/selling-e-books-website)
 
-- 🔭 I’m currently working on [Blog story app](https://github.com/NguyenQuocDung31072001/project_fullstack_blog_app)
+- 🔭 I’m currently working on [Blog story app](https://github.com/NguyenQuocDung31072001/blog_fullstack_react_nodejs_golang)
 
 - 🌱 I’m currently learning **nextjs**
 
