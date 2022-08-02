@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quốc Dũng</h1>
-<h3 align="center">Fullstack developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 - 🔭 My project: [Book E-commerce](https://github.com/NguyenQuocDung31072001/selling-e-books-website)
 
