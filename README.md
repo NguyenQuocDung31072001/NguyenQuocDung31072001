@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Quốc Dũng</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🔭 My project: [Book E-commerce](https://github.com/NguyenQuocDung31072001/selling-e-books-website)
+- 🔭 My project: [Book E-commerce(private)](https://github.com/NguyenQuocDung31072001/selling-e-books-website)
 
-- 🔭 My project: [Blog app](https://github.com/NguyenQuocDung31072001/blog_fullstack_react_nodejs)
+- 🔭 My project: [Blog app(public)](https://github.com/NguyenQuocDung31072001/blog_fullstack_react_nodejs)
 
 - 📫 How to reach me **dungnguyen310701@gmail.com**
 
