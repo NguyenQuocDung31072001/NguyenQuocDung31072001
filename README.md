@@ -4,7 +4,7 @@ I'm Nguyen Quoc Dung from Vietnam, currently living in Ho Chi Minh City. I'm a l
 # Technologies
 Talk to me about
 
-- Front-end development using HTML, Javascript, TypeScript, CSS, SASS, SCSS, TaiwindsCss, Bootstrap, MaterialUI, Ant Design, Styled Component, ReactJS, NextJS, Refine.dev, ReactQuery, Axios, Redux
+- Front-end development using HTML, Javascript, TypeScript, CSS, SASS, SCSS, TaiwindsCss, Bootstrap, MaterialUI, Ant Design, ChakraUI, Styled Component, ReactJS, NextJS, Refine.dev, ReactQuery, Axios, Redux
 
 - Backend development using NodeJS, StrapiJS, MongooDB, MySQL, PostgresSQL
 
