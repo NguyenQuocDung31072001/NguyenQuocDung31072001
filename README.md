@@ -15,5 +15,5 @@ Talk to me about
 
 # About me <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png" width="25px" height="25px" margin="-4px"/>
 
-- I love <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="20px" height="20px"/> programming
+- I love <img src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png" width="20px" height="20px" style="transform:translate(0px, 20px)" /> programming
 - I love thinking solutions, solving problem
