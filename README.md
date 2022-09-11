@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyen Quoc Dung - Fullstack Web Developer
 
-I'm Nguyen Quoc Dung from Vietnam, currently living in Ho Chi Minh City. I'm a learning at University Information Technology (UIT).Current working as a Front-end Developer at Amanotes
+I'm Nguyen Quoc Dung from Vietnam, currently living in Ho Chi Minh City. I'm a learning at University Information Technology (UIT). Current working as a Front-end Developer at Amanotes
 # Technologies
 Talk to me about
 
