@@ -12,7 +12,7 @@ Talk to me about
 
 - Creating scalable cloud architecture using AWS Cloud
 
-- Platform manage project GitHup, GitLap, Bitbucket
+- Platform manage project using GitHup, GitLap, Bitbucket
 
 
 # About me
