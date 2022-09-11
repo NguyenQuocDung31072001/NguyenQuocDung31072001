@@ -4,13 +4,13 @@ I'm Nguyen Quoc Dung from Vietnam, currently living in Ho Chi Minh City. I'm a l
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" width="25px" height="25px"/> Technologies
 Talk to me about
 
-- Front-end development using HTML, Javascript, TypeScript, CSS, SASS, SCSS, TaiwindsCss, Bootstrap, MaterialUI, Ant Design, ChakraUI, Styled Component, ReactJS, NextJS, Refine.dev, ReactQuery, Axios, Redux
+- Front-end development using `HTML`, `Javascript`, `TypeScript`, `CSS`, `SASS`, `SCSS`, `TaiwindsCss`, `Bootstrap`, `MaterialUI`, `Ant Design`, `ChakraUI`, `Styled Component`, `ReactJS`, `NextJS`, `Refine.dev`, `ReactQuery`, `Axios`, `Redux`
 
-- Backend development using NodeJS, StrapiJS, MongooDB, MySQL, PostgresSQL
+- Backend development using `NodeJS`, `StrapiJS`, `MongooDB`, `MySQL`, `PostgresSQL`
 
-- Mobile application development using ReactNative
+- Mobile application development using `ReactNative`
 
-- Creating scalable cloud architecture using AWS Cloud
+- Creating scalable cloud architecture using `AWS Cloud`
 
 
 # About me <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png" width="25px" height="25px" margin="-4px"/>
