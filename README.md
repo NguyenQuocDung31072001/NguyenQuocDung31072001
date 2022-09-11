@@ -1,5 +1,8 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/>, I'm Nguyen Quoc Dung - Fullstack Web Developer
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/> I'm Nguyen Quoc Dung - Fullstack Web Developer
 
+<div><a href="https://www.facebook.com/profile.php?id=100012657915092">Facebook</a> </div>
+<div><a href="https://www.linkedin.com/in/nguyen-dung-aa9670237/">Linkin</a> </div>
+<div><a href="https://www.facebook.com/profile.php?id=100012657915092">Gmail</a> </div>
 I'm Nguyen Quoc Dung from Vietnam, currently living in Ho Chi Minh City. I'm a learning at University Information Technology (UIT). Current working as a Front-end Developer at Amanotes
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" width="25px" height="25px"/> Technologies
 Talk to me about
