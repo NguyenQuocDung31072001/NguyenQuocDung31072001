@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/> I'm Nguyen Quoc Dung - Fullstack Web Developer
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"/> I'm Nguyen Quoc Dung - Frontend Web Developer
 
 I'm Nguyen Quoc Dung from Vietnam, currently living in Ho Chi Minh City. I'm a learning at University Information Technology (UIT). Current working as a Front-end Developer at Amanotes
 # <img src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png" width="25px" height="25px"/> Technologies
