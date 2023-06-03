@@ -6,7 +6,7 @@ Talk to me about
 
 - Front-end development using `HTML`, `Javascript`, `TypeScript`, `CSS`, `SASS`, `SCSS`, `TaiwindsCss`, `Bootstrap`, `MaterialUI`, `Ant Design`, `ChakraUI`, `Styled Component`, `ReactJS`, `NextJS`, `Refine.dev`, `ReactQuery`, `Axios`, `Redux`
 
-- Backend development using `NodeJS`, `StrapiJS`, `MongooDB`, `MySQL`, `PostgresSQL`
+- Backend development using `NodeJS`, `NestJS`, `ExpressJS`, `StrapiJS`, `MongooDB`, `MySQL`, `PostgresSQL`
 
 - Mobile application development using `ReactNative`
 
